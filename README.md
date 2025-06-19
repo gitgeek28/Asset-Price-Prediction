@@ -21,7 +21,7 @@ To build and compare predictive models for stock price forecasting using:
 - Scikit-learn
 - XGBoost
 - TensorFlow / Keras
-- (ARIMA – to be added optionally)
+- ARIMA  
 
 ## 🔍 Project Workflow
 
@@ -37,7 +37,7 @@ To build and compare predictive models for stock price forecasting using:
 3. **Model Implementation**
    - 📦 XGBoost Regression
    - 🔁 LSTM Neural Network
-   - (Optional: 📉 ARIMA Model for traditional forecasting)
+   - 📉 ARIMA Model for traditional forecasting
 
 4. **Model Evaluation**
    - Metrics: MAE, RMSE
